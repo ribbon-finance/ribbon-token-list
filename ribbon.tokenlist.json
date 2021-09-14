@@ -6,3 +6,4 @@
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": []
 }
+{"name":"Ribbon oTokens","logoURI":"https://i.imgur.com/u5z1Ev2.png","keywords":["defi","option","opyn","ribbon"],"timestamp":"2021-09-14T22:29:39Z","version":{"major":1,"minor":0,"patch":0},"tokens":[{"chainId":1,"address":"0xcd8cabd350eb1895e74840fd0e2950d4daf3f4ad","name":"WETHUSDC 17-September-2021 4100Call WETH Collateral","symbol":"oWETHUSDC/WETH-17SEP21-4100C","decimals":8},{"chainId":1,"address":"0xcd8cabd350eb1895e74840fd0e2950d4daf3f4ad","name":"WETHUSDC 17-September-2021 4100Call WETH Collateral","symbol":"oWETHUSDC/WETH-17SEP21-4100C","decimals":8}]}
