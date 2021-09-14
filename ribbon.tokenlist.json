@@ -1,1 +1,8 @@
-{}
+{
+  "name": "Ribbon oTokens",
+  "logoURI": "https://i.imgur.com/u5z1Ev2.png",
+  "keywords": [ "defi", "option", "opyn", "ribbon" ],
+  "timestamp": "2021-09-14T22:20:32Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": []
+}
