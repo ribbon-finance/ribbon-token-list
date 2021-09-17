@@ -7,12 +7,26 @@
     "opyn",
     "ribbon"
   ],
-  "timestamp": "2021-09-15T16:18:59Z",
+  "timestamp": "2021-09-17T17:21:42Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xdDf0A15CF01B92FbFB0BC5EF91e4C52A28D11C43",
+      "name": "WETHUSDC 24-September-2021 4200Call WETH Collateral",
+      "symbol": "oWETHUSDC/WETH-24SEP21-4200C",
+      "decimals": 8
+    },
+    {
+      "chainId": 1,
+      "address": "0xeEc7e166D6F36f6f690b86738EBD60dFC3C92548",
+      "name": "WBTCUSDC 24-September-2021 55000Call WBTC Collateral",
+      "symbol": "oWBTCUSDC/WBTC-24SEP21-55000C",
+      "decimals": 8
+    }
   ]
 }
