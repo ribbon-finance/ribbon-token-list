@@ -17,29 +17,29 @@
     {
       "chainId": 1,
       "address": "0xdDf0A15CF01B92FbFB0BC5EF91e4C52A28D11C43",
-      "name": "WETHUSDC 24-September-2021 4200Call WETH Collateral",
-      "symbol": "oWETHUSDC/WETH-24SEP21-4200C",
+      "name": "WETHUSDC 24-September-2021 4200Call",
+      "symbol": "WETH-24SEP21-4200C",
       "decimals": 8
     },
     {
       "chainId": 1,
       "address": "0xeEc7e166D6F36f6f690b86738EBD60dFC3C92548",
-      "name": "WBTCUSDC 24-September-2021 55000Call WBTC Collateral",
-      "symbol": "oWBTCUSDC/WBTC-24SEP21-55000C",
+      "name": "WBTCUSDC 24-September-2021 55000Call",
+      "symbol": "WBTC-24SEP21-55000C",
       "decimals": 8
     },
     {
       "chainId": 1,
       "address": "0x85C703495654DaE666222C66EDf600685FA756BB",
-      "name": "WETHUSDC 01-October-2021 3400Call WETH Collateral",
-      "symbol": "oWETHUSDC/WETH-01OCT21-3400C",
+      "name": "WETHUSDC 01-October-2021 3400Call",
+      "symbol": "WETH-01OCT21-3400C",
       "decimals": 8
     },
     {
       "chainId": 1,
       "address": "0x0a21B94d77465A26DC7A63144aFe68C6AC15092A",
-      "name": "WBTCUSDC 01-October-2021 49000Call WBTC Collateral",
-      "symbol": "oWBTCUSDC/WBTC-01OCT21-49000C",
+      "name": "WBTCUSDC 01-October-2021 49000Call",
+      "symbol": "WBTC-01OCT21-49000C",
       "decimals": 8
     }
   ]
