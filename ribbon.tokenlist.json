@@ -1,6 +1,5 @@
 {
   "name": "Ribbon oTokens",
-  "logoURI": "https://i.imgur.com/u5z1Ev2.png",
   "keywords": [
     "defi",
     "option",
@@ -15,6 +14,7 @@
   },
   "tokens": [
     {
+      "logoURI": "https://i.imgur.com/u5z1Ev2.png",
       "chainId": 1,
       "address": "0xdDf0A15CF01B92FbFB0BC5EF91e4C52A28D11C43",
       "name": "WETHUSDC 24-September-2021 4200Call",
@@ -22,6 +22,7 @@
       "decimals": 8
     },
     {
+      "logoURI": "https://i.imgur.com/u5z1Ev2.png",
       "chainId": 1,
       "address": "0xeEc7e166D6F36f6f690b86738EBD60dFC3C92548",
       "name": "WBTCUSDC 24-September-2021 55000Call",
@@ -29,6 +30,7 @@
       "decimals": 8
     },
     {
+      "logoURI": "https://i.imgur.com/u5z1Ev2.png",
       "chainId": 1,
       "address": "0x85C703495654DaE666222C66EDf600685FA756BB",
       "name": "WETHUSDC 01-October-2021 3400Call",
@@ -36,6 +38,7 @@
       "decimals": 8
     },
     {
+      "logoURI": "https://i.imgur.com/u5z1Ev2.png",
       "chainId": 1,
       "address": "0x0a21B94d77465A26DC7A63144aFe68C6AC15092A",
       "name": "WBTCUSDC 01-October-2021 49000Call",
@@ -43,6 +46,7 @@
       "decimals": 8
     },
     {
+      "logoURI": "https://i.imgur.com/u5z1Ev2.png",
       "chainId": 1,
       "address": "0x01e21B356b83dAa21C0e6AABF68a227a7b5e20B1",
       "name": "WETHUSDC 08-October-2021 3700Call",
@@ -50,6 +54,7 @@
       "decimals": 8
     },
     {
+      "logoURI": "https://i.imgur.com/u5z1Ev2.png",
       "chainId": 1,
       "address": "0x3F5f049ef271cDF18EDAb66e80E3209ecAE5a228",
       "name": "WBTCUSDC 08-October-2021 52000Call",
